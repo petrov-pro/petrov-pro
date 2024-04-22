@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**petrov-pro/petrov-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Seasoned **Senior Software Engineer** with over 10 years of experience adept at both frontend and backend technologies. Passionate about crafting scalable solutions to enhance user experience and drive business growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+
+## Contacts
+![Static Badge](https://img.shields.io/badge/LinkedIn?logo=linkedIn)
+
+[![My GitHub ](https://github-readme-stats.vercel.app/api?username=petrov-pro&hide=prs,issues,contribs&show_icons=true&theme=swift)](https://github.com/petrov-pro/)
